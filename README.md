@@ -29,3 +29,4 @@
 - **RNN 1:** RNN basics with character level text classification task
 - **RNN 2:** Character level text generation with RNN
 - **RNN 3:** Encoder-decoder architecture and attention mechanism with RNNs
+- **RNN 4:**
